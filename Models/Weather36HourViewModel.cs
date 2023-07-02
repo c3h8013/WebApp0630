@@ -7,7 +7,7 @@ namespace WebApp0630.Models
 {
     public class Weather36HourViewModel
     {
-        public int Id { get; set; }
+
         /// <summary>
         /// 名稱
         /// </summary>
