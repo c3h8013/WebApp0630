@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp0630", "WebApp0630.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp0630.Tests", "..\WebApp0630.Tests\WebApp0630.Tests.csproj", "{84A1440C-F4AE-46B0-A530-00D973C5E89B}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB_Weather", "..\Database\DB_Weather.sqlproj", "{351E5837-8A17-496D-A66F-1E1D9C2000EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{84A1440C-F4AE-46B0-A530-00D973C5E89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84A1440C-F4AE-46B0-A530-00D973C5E89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84A1440C-F4AE-46B0-A530-00D973C5E89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351E5837-8A17-496D-A66F-1E1D9C2000EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351E5837-8A17-496D-A66F-1E1D9C2000EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351E5837-8A17-496D-A66F-1E1D9C2000EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{351E5837-8A17-496D-A66F-1E1D9C2000EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351E5837-8A17-496D-A66F-1E1D9C2000EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351E5837-8A17-496D-A66F-1E1D9C2000EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
